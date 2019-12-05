@@ -16,6 +16,8 @@ O projeto GoldenRaspberryAwards foi desenvolvido para participar do processo sel
 
 - O deploy do projeto pode ocorrer de duas maneira: a convencional que é gerar o ".war" e realizar o deploy em um servidor de aplicação externo ou gerar um arquivo ".jar" e utilizar o suporte do Spring encapsular Tomcat.  
 
+- Os testes unitario podem ser rodados através da ferramenta maven, rodando o comando mvn test ou maven test
+
 ## Recursos
 
 <h3>
